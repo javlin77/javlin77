@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Myself Upal 👋
 # 💫 About Me:
 SOF IMO Int’l Rank 75 — where numbers became my first language.<br>Java helps me express, but so does a melody waiting to be written.<br><br>I see patterns in problems, harmony in algorithms, and stories in every solution.<br>Not just a coder. Not just a composer. A creator of meaning — in logic and sound.<br>Forever in debug mode. Forever in tune.
 
